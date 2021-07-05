@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-07T18:05:19 IST" name="Default suite" finished-at="2021-06-07T18:06:12 IST" duration-ms="52979">
+    <groups>
+    </groups>
+    <test started-at="2021-06-07T18:05:19 IST" name="Default test" finished-at="2021-06-07T18:06:12 IST" duration-ms="52979">
+      <class name="playGround.PlayGround">
+        <test-method signature="VerifyDateandTime()[pri:0, instance:playGround.PlayGround@6da21078]" started-at="2021-06-07T18:05:19 IST" name="VerifyDateandTime" finished-at="2021-06-07T18:05:25 IST" duration-ms="6897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDateandTime -->
+        <test-method signature="VerifyDeleteCustomerSubmitButton()[pri:1, instance:playGround.PlayGround@6da21078]" started-at="2021-06-07T18:05:25 IST" name="VerifyDeleteCustomerSubmitButton" finished-at="2021-06-07T18:05:38 IST" duration-ms="12563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDeleteCustomerSubmitButton -->
+        <test-method signature="VerifyDeleteCustomerResetButton()[pri:2, instance:playGround.PlayGround@6da21078]" started-at="2021-06-07T18:05:38 IST" name="VerifyDeleteCustomerResetButton" finished-at="2021-06-07T18:05:52 IST" duration-ms="14419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDeleteCustomerResetButton -->
+        <test-method signature="VerifyDownloadButton()[pri:3, instance:playGround.PlayGround@6da21078]" started-at="2021-06-07T18:05:52 IST" name="VerifyDownloadButton" finished-at="2021-06-07T18:06:04 IST" duration-ms="11076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDownloadButton -->
+        <test-method signature="VerifyDragAndDrop()[pri:4, instance:playGround.PlayGround@6da21078]" started-at="2021-06-07T18:06:04 IST" name="VerifyDragAndDrop" finished-at="2021-06-07T18:06:12 IST" duration-ms="7964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDragAndDrop -->
+      </class> <!-- playGround.PlayGround -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
